@@ -37,6 +37,9 @@ heres some (other) interests!;</p>
 </head>
 <body>
   <ul>
+      <p align="center">
+          ╔═════∘◦　^(⑉>▽<⑉)^　◦∘═════╗
+      </p>
     <li>⛥ Minecraft & Geometry Dash 🖱️</li>
       <br>
 <blockquote>
@@ -56,8 +59,14 @@ This is probably the most recent fandom I started interacting with but I fell in
 </blockquote>
     <li>⛥ Rainbow Six Siege ⌨️</li>
       <blockquote>
-quite the curve ball of an interest but even at my youngest ages I loved FPS games, I wasnt actually ment to be introduced to siege but my brother left the disk out on the counter one day and I just shovedd into out xbox. from that day ive played for 7 years and its still my favorite FPS game, though my peak is being a 1.7kd Emerald 🥹
+quite the curve ball of an interest but even at my youngest ages I loved FPS games, I wasnt actually ment to be introduced to siege but my brother left the disk out on the counter one day and I just shovedd into out xbox. from that day ive played for 7 years and its still my favorite FPS game, though my peak is being a 1.6kd Emerald 🥹
 </blockquote>
+      <p align="center">
+    <img width="300" src="Assets/r6stats.png">
+</p>
+    <p align="center">
+        ╚═════════∘◦ ✿ ◦∘═════════╝
+    </P>
   </ul>
 </body>
 </html>
