@@ -87,9 +87,12 @@ quite the curve ball of an interest but even at my youngest ages I loved FPS gam
       ºO•❤•.¸✿¸.•❤•.❀• Ｇｅｏｍｅｔｒｙ Ｄａｓｈ •❀.•❤•.¸✿¸.•❤•Oº
   </p></h1>
 </body>
- <blockquote>
-WIP
-</blockquote>
+    <p align="center">
+     placeholder
+  </p><br>
+ <p align="center">
+     <img width="500", src="Assets/Screenshot_20250415_143705.png">
+ </p>
 </html>
 
 <html lang="en">
