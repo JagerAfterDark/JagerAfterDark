@@ -106,8 +106,12 @@ quite the curve ball of an interest but even at my youngest ages I loved FPS gam
     <img width="270" src="https://blinkies.cafe/b/display/0202-pinterestlogo.gif">
     </a>
 </p>
+    <p align="center">
+    <a href="https://stats.fm/user/i_love_buff_furry_boys?range=weeks">
+    <img width="270" src="Assets/blinkiesCafe-LE.gif">
+    </a>
+</p>
   </p>
-
 <br><p align="center">
     <img width="1000" src="https://64.media.tumblr.com/af652e5ae45009910454236fe7bf16b6/tumblr_pbdeppvLYu1wclo4ko9_640.gifv">
 </p>
