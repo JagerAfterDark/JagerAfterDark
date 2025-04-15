@@ -9,7 +9,16 @@
 </head>
 <body>
   <h1><p align="center">
-      ºO•❤•.¸✿¸.•❤•.❀•.Ƹ̵̡Ӝ̵̨̄Ʒ Introduction Ƹ̵̡Ӝ̵̨̄Ʒ.•❀.•❤•.¸✿¸.•❤•Oº
+     🌸꧁˜”*°•.˜”*°•🩷 Ｊａｇｅｒ 🩷•°*”˜.•°*”˜꧂🌸
+  </p></h1>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1><p align="center">
+      ✿¸.•❤•.❀•.Ƹ̵̡Ӝ̵̨̄Ʒ Ｉｎｔｒｏｄｕｃｔｉｏｎ Ƹ̵̡Ӝ̵̨̄Ʒ.•❀.•❤•.¸✿
   </p></h1>
     <p align="center">
     <img width="300" src="https://blinkies.cafe/b/display/0134-fluttershy.gif">
@@ -63,7 +72,7 @@ quite the curve ball of an interest but even at my youngest ages I loved FPS gam
 </head>
 <body>
   <h1><p align="center">
-     ˜”*°•.˜”*°• Links •°*”˜.•°*”˜
+     ˜”*°•.˜”*°• Ｌｉｎｋｓ •°*”˜.•°*”˜
   </p></h1><p>
       <p align="center">
     <a href="https://www.youtube.com/@JagerJagerJagerJager">
