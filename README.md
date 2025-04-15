@@ -11,6 +11,9 @@
   <h1><p align="center">
      🌸꧁˜”*°•.˜”*°•🩷 Ｊａｇｅｒ 🩷•°*”˜.•°*”˜꧂🌸
   </p></h1>
+  <p align="center">
+  <a href="#links">Jump to My Links!!</a>
+</p>
 
 <html lang="en">
 <head>
@@ -94,6 +97,7 @@ WIP
   <meta charset="UTF-8">
 </head>
 <body>
+    <div id="links">
   <h1><p align="center">
      ˜”*°•.˜”*°• Ｌｉｎｋｓ •°*”˜.•°*”˜
   </p></h1><p>
