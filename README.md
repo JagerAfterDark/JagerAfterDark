@@ -48,18 +48,30 @@ heres some (other) interests!;</p>
 <blockquote>
 4,300 hours on GD btw 🥹 my Hardest rated is Killbot and hardest unrated and overall is Martin
 </blockquote>
+              <p align="center">
+    <img width="350" src="Assets/zoink.png">
+</p>
     <li>⛥ Murder Drones!! 💜</li>
       <blockquote>
 I got recommend the show awhile ago by a friend and oh she put me ON, I became in love with the whole idea of the show and I became obessed with the characters. Im a die hard Uzi and V fan and they will forever be on somepart of my mind
 </blockquote>
+              <p align="center">
+    <img width="300" src="https://media1.tenor.com/m/ty5wgrYqI7YAAAAd/serial-designation-v-serial-designation-n.gif">
+</p>
     <li>⛥ Furry Fandom 🐾</li>
       <blockquote>
 I love furries sm 💚 one of the fandoms ive interacted with for the longest and its easily my favorite!! the most welcoming community ive ever been in and honestly made me a more creative person by proxy. although despite that I still havent made a sona which GOD DAM I need to tf 💔
 </blockquote>
+              <p align="center">
+    <img width="350" src="Assets/zoinkfurry.png">
+</p>
     <li>⛥ My Little Pony 💛</li>
       <blockquote>
-This is probably the most recent fandom I started interacting with but I fell in love with the characters SO FAST! I feel like everyone can describe themselves via one of the mane 6, me personally im a fluttershy gal easily shes so me 😭
+This is probably the most recent fandom I started interacting with but I fell in love with the characters SO FAST! I feel like everyone can describe themselves via one of the mane 6, me personally im a fluttershy gal easily shes so me 😭 (also fluttershy is transfem, argue with a wall)
 </blockquote>
+              <p align="center">
+    <img width="300" src="Assets/appleflutterdash.gif">
+</p>
     <li>⛥ Rainbow Six Siege ⌨️</li>
       <blockquote>
 quite the curve ball of an interest but even at my youngest ages I loved FPS games, I wasnt actually ment to be introduced to siege but my brother left the disk out on the counter one day and I just shoved into our xbox. from that day ive played for 7 years and its still my favorite FPS game, though my peak is being a 1.6kd Emerald (PC) but I just wanna have fun 🥹
