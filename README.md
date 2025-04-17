@@ -14,6 +14,11 @@
   <p align="center">
   <a href="#links">Jump to My Links!!</a>
 </p>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ytgm4vodwsst4dsc7dihwn6jdu&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ytgm4vodwsst4dsc7dihwn6jdu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=ff00d0&bar_color_cover=false" alt="spotify-github-profile">
+</a>
+</p>
 
 <html lang="en">
 <head>
