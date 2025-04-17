@@ -105,10 +105,10 @@ quite the curve ball of an interest but even at my youngest ages I loved FPS gam
   </p></h1>
 </body>
     <p align="left">
-     Ive played GD for about 6 years and have played over 4,300 hours (yikes). as of writing ive completed about 17 extreme demons and about 40 insane demons with a overall demon count of about 235 (image may be outdated cuz I took 4 billion years to type this one paragraph). My hardest level is unrated being Martin by Soulax and my Rated hardest being Killbot by Boldstep. Ive also cleared top list challenges SC66p, Im blind (66px2), and my hardest Final Destination by icedcave. I also may or may not have been apart of the creation of SongFileHub :trollface:
+     Ive played GD for about 6 years and have played over 4,300 hours (yikes). as of writing ive completed about 18 extreme demons and about 40 insane demons with a overall demon count of about 235. My hardest level is unrated being Martin by Soulax and my Rated hardest being Killbot by Boldstep. Ive also cleared top list challenges SC66p, Im blind (66px2), and my hardest Final Destination by icedcave. I also may or may not have been apart of the creation of SongFileHub :trollface:
   </p><br>
  <p align="center">
-     <img width="500", src="Assets/Screenshot_20250415_143705.png">
+     <img width="500", src="Assets/gdnew.png">
  </p>
 </html>
 
@@ -120,7 +120,7 @@ quite the curve ball of an interest but even at my youngest ages I loved FPS gam
   <h1><p align="center">
       ˜”*°•.˜”*°• Ｍｕｓｉｃ •°*”˜.•°*”˜
   </p></h1>
-    I actually used to be a freak and didnt listen to much music like at all, but my older brother in the past 3 years has had influence on me and developed me into who I am now (music taste wise). I am a big fan of Hyperpop but ive more moved into experimental/alternative electronic music and hiphop, I actually dont know like anything about genres do not ask me anything 🥹
+    I actually used to be a freak and didnt listen to much music like at all, but my older brother in the past 3 years has had influence on me and developed me into who I am now (music taste wise). I am a big fan of Hyperpop but ive more moved into experimental/alternative electronic music and hiphop, I actually dont know like anything about genres do not ask me anything I just listen to whatever sounds good 🥹
     <p align="center"> 
     Ƹ̵̡Ӝ̵̨̄Ʒ (Some of) My Favorite Albums & EPs Ƹ̵̡Ӝ̵̨̄Ʒ
     </p><br>
