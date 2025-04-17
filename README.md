@@ -133,7 +133,7 @@ quite the curve ball of an interest but even at my youngest ages I loved FPS gam
     </a>
 </p>
     <p align="center">
-    <a href="https://stats.fm/user/i_love_buff_furry_boys?range=weeks">
+    <a href="https://stats.fm/user/JagerAfterDark?range=weeks">
     <img width="270" src="Assets/blinkiesCafe-LE.gif">
     </a>
 </p>
