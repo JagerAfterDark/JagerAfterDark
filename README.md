@@ -104,12 +104,42 @@ quite the curve ball of an interest but even at my youngest ages I loved FPS gam
       ºO•❤•.¸✿¸.•❤•.❀• Ｇｅｏｍｅｔｒｙ Ｄａｓｈ •❀.•❤•.¸✿¸.•❤•Oº
   </p></h1>
 </body>
-    <p align="center">
-     placeholder
+    <p align="left">
+     Ive played GD for about 6 years and have played over 4,300 hours (yikes). as of writing ive completed about 17 extreme demons and about 40 insane demons with a overall demon count of about 235 (image may be outdated cuz I took 4 billion years to type this one paragraph). My hardest level is unrated being Martin by Soulax and my Rated hardest being Killbot by Boldstep. Ive also cleared top list challenges SC66p, Im blind (66px2), and my hardest Final Destination by icedcave. I also may or may not have been apart of the creation of SongFileHub :trollface:
   </p><br>
  <p align="center">
      <img width="500", src="Assets/Screenshot_20250415_143705.png">
  </p>
+</html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1><p align="center">
+      ˜”*°•.˜”*°• Ｍｕｓｉｃ •°*”˜.•°*”˜
+  </p></h1>
+    I actually used to be a freak and didnt listen to much music like at all, but my older brother in the past 3 years has had influence on me and developed me into who I am now (music taste wise). I am a big fan of Hyperpop but ive more moved into experimental/alternative electronic music and hiphop, I actually dont know like anything about genres do not ask me anything 🥹
+    <p align="center"> 
+    Ƹ̵̡Ӝ̵̨̄Ʒ (Some of) My Favorite Albums & EPs Ƹ̵̡Ӝ̵̨̄Ʒ
+    </p><br>
+    <p align="center"> 
+    <img width="100" src="https://stats.fm/api/image?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic116%2Fv4%2F6b%2Fcb%2F20%2F6bcb2097-c133-edc9-8301-70e09dfb7d3e%2F197773719212_cover.jpg%2F768x768bb.jpg&w=256&q=75&fallbackImg=https://cdn.stats.fm/file/statsfm/images/placeholders/users/private.webp">
+        <img width="100" src="https://stats.fm/api/image?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic126%2Fv4%2Fad%2F13%2F04%2Fad130441-45c1-4e9a-ffe9-24f1e93ee2ab%2F195162208132_cover.jpg%2F768x768bb.jpg&w=256&q=75&fallbackImg=https://cdn.stats.fm/file/statsfm/images/placeholders/users/private.webp">
+        <img width="100" src="https://stats.fm/api/image?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic116%2Fv4%2Fbd%2Fe5%2F57%2Fbde557d1-abdb-0b03-942f-7e55fb567bb4%2Fcover_197994100493.jpg%2F768x768bb.jpg&w=256&q=75&fallbackImg=https://cdn.stats.fm/file/statsfm/images/placeholders/users/private.webp">
+        <img width="100" src="https://stats.fm/api/image?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2Fdc%2F33%2Ff0%2Fdc33f0cb-74d4-80ed-7b64-04317abf511b%2F199066529713.jpg%2F768x768bb.jpg&w=256&q=75&fallbackImg=https://cdn.stats.fm/file/statsfm/images/placeholders/users/private.webp">
+        <img width="100" src="https://stats.fm/api/image?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F91%2F79%2F91%2F9179910b-902f-af81-3375-cdd8e6226fc8%2F075679660169.jpg%2F768x768bb.jpg&w=256&q=75&fallbackImg=https://cdn.stats.fm/file/statsfm/images/placeholders/users/private.webp">
+        <img width="100" src="https://stats.fm/api/image?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic221%2Fv4%2F04%2F56%2F64%2F0456641d-a932-92a9-10e0-d276200de407%2F198704087448_Cover.jpg%2F768x768bb.jpg&w=256&q=75&fallbackImg=https://cdn.stats.fm/file/statsfm/images/placeholders/users/private.webp">
+        <img width="100" src="https://stats.fm/api/image?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic115%2Fv4%2Fff%2F3e%2Fd8%2Fff3ed801-2487-d7ca-2efb-363cfbea3361%2F886443403192.jpg%2F768x768bb.jpg&w=256&q=75&fallbackImg=https://cdn.stats.fm/file/statsfm/images/placeholders/users/private.webp">  
+        <img width="100" src="https://stats.fm/api/image?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic126%2Fv4%2F7b%2F16%2Fc9%2F7b16c9c2-a738-66c6-0476-65f020d5dc24%2F075679708069.jpg%2F768x768bb.jpg&w=256&q=75&fallbackImg=https://cdn.stats.fm/file/statsfm/images/placeholders/users/private.webp">  
+        <img width="100" src="https://stats.fm/api/image?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic122%2Fv4%2Fca%2F05%2F2c%2Fca052c01-d877-20fa-71f6-12f704cf5047%2F075679726810.jpg%2F768x768bb.jpg&w=256&q=75&fallbackImg=https://cdn.stats.fm/file/statsfm/images/placeholders/users/private.webp">  
+        <img width="100" src="https://stats.fm/api/image?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic116%2Fv4%2F4f%2Fa9%2Fb0%2F4fa9b05d-e4a8-7628-00d8-f47eff74059a%2F195162209399_cover.jpg%2F768x768bb.jpg&w=256&q=75&fallbackImg=https://cdn.stats.fm/file/statsfm/images/placeholders/users/private.webp">  
+    </p>
+     <blockquote>
+might add links to them one day if im bored
+</blockquote>
+</body>
 </html>
 
 <html lang="en">
