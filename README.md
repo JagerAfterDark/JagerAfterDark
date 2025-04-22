@@ -51,7 +51,7 @@ heres some (other) interests!;</p>
     <li>⛥ Minecraft & Geometry Dash 🖱️</li>
       <br>
 <blockquote>
-4,300 hours on GD btw 🥹 my Hardest rated is Killbot and hardest unrated and overall is Martin
+4,300 hours on GD btw 🥹 my Hardest is Requiem
 </blockquote>
               <p align="center">
     <img width="350" src="Assets/zoink.png">
@@ -105,7 +105,7 @@ quite the curve ball of an interest but even at my youngest ages I loved FPS gam
   </p></h1>
 </body>
     <p align="left">
-     Ive played GD for about 6 years and have played over 4,300 hours (yikes). as of writing ive completed about 18 extreme demons and about 40 insane demons with a overall demon count of about 235. My hardest level is unrated being Martin by Soulax and my Rated hardest being Killbot by Boldstep. Ive also cleared top list challenges SC66p, Im blind (66px2), and my hardest Final Destination by icedcave. I also may or may not have been apart of the creation of SongFileHub :trollface:
+     Ive played GD for about 6 years and have played over 4,300 hours (yikes). as of writing ive completed about 18 extreme demons and about 40 insane demons with a overall demon count of about 235. My hardest level is Requiem by Zylenox. Ive also cleared top list challenges SC66p, Im blind (66px2), and my hardest Final Destination by icedcave. I also may or may not have been apart of the creation of SongFileHub :trollface:
   </p><br>
  <p align="center">
      <img width="500", src="Assets/gdnew.png">
