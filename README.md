@@ -72,7 +72,7 @@ I love furries sm 💚 one of the fandoms ive interacted with for the longest an
 </p>
     <li>⛥ My Little Pony 💛</li>
       <blockquote>
-This is probably the most recent fandom I started interacting with but I fell in love with the characters SO FAST! I feel like everyone can describe themselves via one of the mane 6, me personally im a fluttershy gal easily shes so me 😭 (also fluttershy is transfem, argue with a wall)
+This is probably the most recent fandom I started interacting with but I fell in love with the characters SO FAST! I feel like everyone can describe themselves via one of the mane 6, me personally im a fluttershy gal easily shes so me 😭 (also fluttershy a transgirl, argue with a wall)
 </blockquote>
               <p align="center">
     <img width="300" src="Assets/appleflutterdash.gif">
