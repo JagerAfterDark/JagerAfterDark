@@ -34,7 +34,7 @@
     <img width="200" src="https://blinkies.cafe/b/display/0132-rainbowdash.gif">
     <img width="200" src="https://blinkies.cafe/b/display/0031-dogpaw.gif">
 </p>
-    <p>Heyya ≽^•⩊•^≼ ₊˚⊹♡! my names Jager and im a transgirl 🤍🩷💙 minecraft programmer and generally a computer fanatic 😸 I try to learn all my knowledge by myself via trial and error, so if I know something it means ive messed it up badly before 💔<br>
+    <p>Heyya ≽^•⩊•^≼ ₊˚⊹♡! my names Jager and im a transgirl 🤍🩷💙 minecraft programmer and generally a computer fanatic 😸  <br>
 heres some (other) interests!;</p>
 </body>
 </html>
@@ -51,7 +51,7 @@ heres some (other) interests!;</p>
     <li>⛥ Minecraft & Geometry Dash 🖱️</li>
       <br>
 <blockquote>
-4,300 hours on GD btw 🥹 my Hardest is Requiem
+4,500 hours on GD btw 🥹 my Hardest is Requiem according to AREDL but in personal opinion my hardest is Wasureta. on minecraft and code and build maps! my PlanetMinecraft name is @JagerAfterDark! I only have 1 map uploaded and the moment and its kinda broken but once you read about the story its a miracle it came out at all.
 </blockquote>
               <p align="center">
     <img width="350" src="Assets/zoink.png">
@@ -105,7 +105,7 @@ quite the curve ball of an interest but even at my youngest ages I loved FPS gam
   </p></h1>
 </body>
     <p align="left">
-     Ive played GD for about 6 years and have played over 4,300 hours (yikes). as of writing ive completed about 18 extreme demons and about 40 insane demons with a overall demon count of about 235. My hardest level is Requiem by Zylenox. Ive also cleared top list challenges SC66p, Im blind (66px2), and my hardest Final Destination by icedcave. I also may or may not have been apart of the creation of SongFileHub :trollface:
+     Ive played GD for about 6 years and have played over 4,500 hours (yikes). as of writing ive completed about 24 extreme demons and about 40 insane demons with a overall demon count of about 245. My hardest level is Requiem by Zylenox (or Wasureta). Ive also cleared top list challenges SC66p, Im blind (66px2), Sizzling Balls, and my hardest Final Destination by icedcave. I also may or may not have been apart of the creation of SongFileHub :trollface: (asset image outdated)
   </p><br>
  <p align="center">
      <img width="500", src="Assets/gdnew.png">
